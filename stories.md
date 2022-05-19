@@ -2,7 +2,8 @@
 
 ## Narratives
 ---
-### Museum of lost Memories
+Museum of lost Memories
+
 <br>
 <br/>1. [A peek to my past](past.md)
 <br>
