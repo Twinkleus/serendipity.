@@ -4,7 +4,6 @@
 ---
 ### Museum of lost Memories
 <br>
-
 <br/>1. [A peek to my past](past.md)
 <br>
 <br/>2. [To: The distance between us](distance.md)
