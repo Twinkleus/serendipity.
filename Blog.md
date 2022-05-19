@@ -6,7 +6,7 @@
 
 <br>
 
-<br/>[Click here for **Stories**](stories.md)
+<br/>[Click here for **Narratives**](stories.md)
 
 ---
 ###### made by siri
